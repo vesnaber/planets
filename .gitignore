@@ -1,2 +1,2 @@
-*.dat 
+*.dat ! final.dat 
 results/
